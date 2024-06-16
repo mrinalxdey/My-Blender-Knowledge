@@ -8,3 +8,6 @@ You can find a cool animation I made of this sword with a character in the repo.
 # Ocean animation I made by following [this Youtube channel](https://www.youtube.com/@BlenderMadeEasy). <br>
 [![Raging Ocean Animation](https://img.youtube.com/vi/Vo2TypJaxLI/maxresdefault.jpg)](https://youtu.be/Vo2TypJaxLI) <br>
 Made the ocean and rain from scratch, and used a pre-built model of the buoy. <br>
+# A glass of iced juice I made by following [this Youtube channel](https://www.youtube.com/@PIXXO3D). <br>
+[![Iced Juice Splash](https://img.youtube.com/vi/CCH1iB6OogE/maxresdefault.jpg)](https://youtu.be/CCH1iB6OogE) <br>
+This was made during summer time because the weather was too hot and I needed to cool myself down mentally.
