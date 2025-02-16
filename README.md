@@ -11,3 +11,6 @@ Made the ocean and rain from scratch, and used a pre-built model of the buoy. <b
 # A glass of iced juice I made by following [this Youtube channel](https://www.youtube.com/@PIXXO3D). <br>
 [![Iced Juice Splash](https://img.youtube.com/vi/CCH1iB6OogE/maxresdefault.jpg)](https://youtu.be/CCH1iB6OogE) <br>
 This was made during summer time because the weather was too hot and I needed to cool myself down mentally.
+# Beginner friendly project: Log Cabin but with planks [this Youtube channel](https://www.youtube.com/@MrTriPie). <br>
+[![Iced Juice Splash](https://github.com/mrinalxdey/My-Blender-Knowledge/blob/master/Log_Cabin.jpg) <br>
+I followed the tutorial and used a few more resources available online for free to save some time and came up with this masterpiece(?)
